@@ -19,7 +19,6 @@ This is a simple and user-friendly task management calendar application that all
 ### Task Categories
 - **Tasks**: View all tasks.
 - **Completed**: Filter and view tasks marked as completed.
-- **In Progress**: Filter and view tasks that are in progress.
 - **Trash**: Manage deleted tasks.
 
 ### User Management
