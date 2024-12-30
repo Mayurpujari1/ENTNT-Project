@@ -9,8 +9,6 @@ This is a simple and user-friendly task management calendar application that all
 - Displays an overview of tasks:
   - **Total Tasks**: Total number of tasks created.
   - **Completed Tasks**: Tasks that have been marked as completed.
-  - **Tasks in Progress**: Tasks currently in progress.
-  - **Todos**: Pending tasks yet to be started.
 
 ### Task Calendar
 - Interactive calendar for organizing tasks.
@@ -18,7 +16,7 @@ This is a simple and user-friendly task management calendar application that all
 
 ### Task Categories
 - **Tasks**: View all tasks.
-- **Completed**: Filter and view tasks marked as completed.
+- **Completed**: Task Manager Youtube Video
 - **Trash**: Manage deleted tasks.
 
 ### User Management
